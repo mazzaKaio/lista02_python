@@ -3,4 +3,6 @@
 nomeUsuario = input("Digite seu nome: ")
 sobrenomeUsuario = input("Digite seu sobrenome: ")
 
-print("Olá", nomeUsuario, sobrenomeUsuario)
+nomeCompleto = nomeUsuario + " " + sobrenomeUsuario
+
+print("Olá", nomeCompleto)
