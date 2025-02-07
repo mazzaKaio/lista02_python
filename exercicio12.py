@@ -1,0 +1,1 @@
+# Escreva um programa que pergunte o valor total da conta
